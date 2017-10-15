@@ -8,4 +8,4 @@ scaling_video.o: scaling_video.c
 	 gcc -c scaling_video.c -Ic:/libs/ffmpeg2/include
 
 clean:
-	 rm hello.o hello.exe
+	 rm scaling_video.o scaling_video.exe
